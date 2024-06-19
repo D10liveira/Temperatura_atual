@@ -27,13 +27,13 @@ Este é um script simples em Python para obter informações sobre o clima atual
 🚀 **Exemplo de Uso**
 ```bash
 python temp_now.py
-🔗 Links Úteis
 
+🔗 Links Úteis
 Documentação do OpenWeatherMap
 Guia de Início Rápido do Python
+
 📝 Notas
-
 Certifique-se de obter uma API Key válida do OpenWeatherMap para utilizar este script.
-👤 Autor
 
-Desenvolvido por Seu Nome
+👤 Autor
+Desenvolvido por Dieimisson Oliveira
