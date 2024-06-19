@@ -29,8 +29,8 @@ Este é um script simples em Python para obter informações sobre o clima atual
 python temp_now.py
 
 🔗 Links Úteis
-Documentação do OpenWeatherMap
-Guia de Início Rápido do Python
+[Documentação do OpenWeatherMap](https://openweathermap.org/current)
+[Guia de Início Rápido do Python](https://www.python.org/doc/)
 
 📝 Notas
 Certifique-se de obter uma API Key válida do OpenWeatherMap para utilizar este script.
